@@ -1,1 +1,1 @@
-# Hypothesis-Trsting
+# Hypothesis-Testing
